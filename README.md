@@ -16,6 +16,10 @@
 
 ## Quickstart
 
+__This repo has been refactored to provide the app via a Jupyer server proxy in a JupyterLab environment. See `README-Jupyter-Server-Proxy`__
+
+__DEPRECATED BELOW__
+
 ```terminal
 cd packages/runtime && npx serve
 ```
